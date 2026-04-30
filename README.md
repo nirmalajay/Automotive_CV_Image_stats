@@ -22,7 +22,7 @@ In this project, the `process_numpy` function utilizes **array broadcasting** an
 
 ## 📂 How to Run
 * Clone this repo to your local environment 
-    **git clone https://github.com/nirmalajay/Automotive_CV_Image_stats.git
-    **change to working directory
+    - git clone https://github.com/nirmalajay/Automotive_CV_Image_stats.git
+    - change to working directory
 * pip install requirements.txt 
 * python3 main.py 
