@@ -3,7 +3,7 @@ import numpy as np
 import time
 import os
 
-IMAGE_PATH = "tulips.jpg"
+IMAGE_PATH = "SIGNAL.jpg"
 BLOCK_SIZE = 16
 OUTPUT_DIR = "TEST_OUTPUT"
 
