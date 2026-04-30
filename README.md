@@ -21,6 +21,8 @@ The primary goal of this project is to demonstrate **algorithmic optimization** 
 In this project, the `process_numpy` function utilizes **array broadcasting** and **reshaping**[cite: 2]. This allows the CPU to process the entire image grid simultaneously, significantly reducing the "NumPy Time" compared to the "Loop Time"[cite: 2].
 
 ## 📂 How to Run
-1. Ensure you have the required libraries installed:
-   ```bash
-   pip install opencv-python numpy
+1. Clone this repo to your local environment 
+    - git clone https://github.com/nirmalajay/Automotive_CV_Image_stats.git
+    - change to working directory
+    - pip install requirements.txt 
+    - python3 main.py 
